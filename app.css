@@ -1,0 +1,18 @@
+h1{
+	color: #54206e;
+}
+label{
+	color: black;
+}
+body{
+	background:#708090;
+}
+div{margin-left: 30%;}
+	span{
+	margin:0px auto;
+	}
+button{
+
+	border-style:100;
+	border-spacing: 4;
+}
